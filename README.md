@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **2000prakharsingh@gmail.com**
 
-- 📄 Know about my experiences ![LinkedIn]([https://www.linkedin.com/in/apoorv-verma-397782195/](https://www.linkedin.com/in/prakharsingh110/))
+- 📄 Know about my experiences ![LinkedIn](https://www.linkedin.com/in/prakharsingh110/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
