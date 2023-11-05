@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Axum](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)**
 
-- 👯 I’m looking to collaborate on [Litehiers](https://github.com/NargeshRana/jiffyhires)
-
 - 👨‍💻 All of my projects are available at [Github](https://github.com/trasherr)
 
 - 📫 How to reach me **2000prakharsingh@gmail.com**
 
 - 📄 Know about my experiences [LinkedIn](https://linkedin.com/in/prakharsingh110/)
+
+- Youtube [@TheOptiCode](https://youtube.com/@theopticode)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
