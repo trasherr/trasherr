@@ -56,8 +56,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trasherr&show_icons=true&locale=en" alt="trasherr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trasherr&" alt="trasherr" /></p>
-<p align= "center">
-  <br>
-  <br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trasherr&" alt="trasherr" />
-</p>
+
